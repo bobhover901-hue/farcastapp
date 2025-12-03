@@ -1,0 +1,24 @@
+{
+  "frame": {
+    "name": "$Farcaster Rewards",
+    "version": "1",
+    "iconUrl": "https://rewards.warpcast.com/splash.png",
+    "homeUrl": "https://farcaster-rewards.vercel.app",
+    "imageUrl": "https://rewards.warpcast.com/splash.png",
+    "splashImageUrl": "https://rewards.warpcast.com/splash.png",
+    "splashBackgroundColor": "#6200EA",
+    "webhookUrl": "https://farcaster-rewards.vercel.app/api/webhook",
+    "subtitle": "Connect to never miss a reward",
+    "description": "Experience tokenization of warpcast",
+    "screenshotUrls": [
+      "https://rewards.warpcast.com/splash.png"
+    ],
+    "primaryCategory": "finance"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzNDU0NDEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgzNTAyOTc2MTc3NzY1NEU5ZDg5RmExMkMyNjBjNTMwM2RGZDBkMjEzIn0",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItcmV3YXJkcy52ZXJjZWwuYXBwIn0",
+    "signature": "3sHdIQhFoQvOWh4/JGh3TlCgUlne+IAVPq72IAZERJFBOZIE2n2VF5cbB8gNsKiqknFfLaMRLw8gOyPDRHXpGRw="
+  }
+}
+
