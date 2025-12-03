@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom styles from the original HTML go here, e.g.: */
+body { 
+  font-family: 'Inter', sans-serif; 
+  background: radial-gradient(circle at 50% 0%, #1a103c 0%, #000000 100%);
+  color: white;
+}
+.blur-secret { filter: blur(12px); user-select: none; }
+#root { opacity: 0; transition: opacity 0.5s ease-in; }
+#root.loaded { opacity: 1; }
+::-webkit-scrollbar { width: 0px; background: transparent; }
+/* ...any other original styles... */
